@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza
 
-<!--
-**ali123606/ali123606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN Stack Developer & Software Engineering student focused on building clean, user-friendly, and efficient web apps.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **ReadNest** – Book selling web app
+- **BigBrains** – Online tech course-selling platform
+- **Quizzing App** – Upload question paper & get instant answers
+- **CodeSphere** – Explore frameworks/tools of multiple languages
+- **Random Quote Generator** – Get inspired with random quotes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React & TypeScript
+- Clean architecture & system design
+- Building production-ready full-stack apps
+
+## 📫 Let's Connect
+- 📧 contact.developer.hamza@gmail.com  
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+
+---
+
+> “Code with purpose, design with clarity.” ✨
