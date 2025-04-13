@@ -16,7 +16,8 @@ I'm a passionate MERN Stack Developer & Software Engineering student focused on 
 
 ## 📫 Let's Connect
 - 📧 contact.developer.hamza@gmail.com  
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 🌐 [Portfolio](https://alihamza-portfolio.vercel.app/)
+- 🌎 [portfolio](https://thealihamza.vercel.app/)
 
 ---
 
