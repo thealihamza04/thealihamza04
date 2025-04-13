@@ -20,7 +20,7 @@ A passionate MERN Stack Developer & Software Engineering student who loves build
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali123606&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=ali123606&theme=radical&no-frame=true&column=10" style="margin-right: 10px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=ali123606&theme=radical&no-frame=true&column=10&rank=A,B" style="margin-right: 10px;" />
 
 
 ## 🧠 Random Quote  
