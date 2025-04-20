@@ -23,10 +23,6 @@ Crafting real-world solutions with MERN stack, blending logic with design as a S
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali123606&layout=compact&theme=radical)
 
 
-##  GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=ali123606&theme=radical&no-frame=true&column=10&rank=A,B" style="width: 80%; height: auto; margin-right: 20px; gap: 10px" />
-
-
 ##  Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.developer.hamza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali123606)
