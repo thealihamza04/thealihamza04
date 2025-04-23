@@ -28,7 +28,7 @@ Crafting real-world solutions with MERN stack, blending logic with design as a S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali123606)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Detailed-blue?style=for-the-badge)](https://alihamza-portfolio.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Minimalist-black?style=for-the-badge)](https://thealihamza.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Minimalist-gray?style=for-the-badge)](https://thealihamza1.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Animative-blue?style=for-the-badge)](https://thealihamza1.vercel.app/)
 
 ---
 
