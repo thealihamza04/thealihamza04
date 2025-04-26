@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Ali Hamza(gitId: ali123606)
+# 👋🏻 Hi, I'm Ali Hamza(gitId: TheAliHamza)
 Crafting real-world solutions with MERN stack, blending logic with design as a Software Engineering student who codes with purpose.
 
 
@@ -20,7 +20,7 @@ Crafting real-world solutions with MERN stack, blending logic with design as a S
 
 
 ##  GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali123606&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealihamza04&layout=compact&theme=radical)
 
 
 ##  Let's Connect
