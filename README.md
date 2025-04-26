@@ -1,27 +1,34 @@
-# 👋🏻 Hi, I'm Ali Hamza(gitId: TheAliHamza)
-Crafting real-world solutions with MERN stack, blending logic with design as a Software Engineering student who codes with purpose.
+# Hi, I'm Ali Hamza
+###### Crafting real-world solutions with MERN stack, blending logic with design as a Software Engineering student who codes with purpose.
 
+<br>
 
 ##  Currently Learning
-- Advanced React & TypeScript  
-- System Design & Clean Architecture  
-- Full-stack production-ready apps  
+- **Advanced React & TypeScript**: Delving deeper into type safety and complex UI development.
+- **System Design & Clean Architecture**: Focusing on building scalable and maintainable systems.
+- **Full-stack production-ready apps**: Aiming to create robust and deployable applications.
 
+
+<br>
 
 ##  Current Goals
-- Excellent grades 6th semester
-- personalized AI models
-- Top-notch UX animations 
-  
+- **Excellent grades 6th semester**: Prioritizing academic success in my current studies.
+- **Personalized AI models**: Exploring the fascinating world of artificial intelligence and customization.
+- **Top-notch UX animations**: Enhancing user experiences with smooth and engaging animations.
 
-  
-## I code with
+
+<br>
+
+##  I code with
 <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,mysql,postman,html,css,js,java,c,cpp,cs"/>
 
+<br>
 
-##  GitHub Stats  
+##  GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealihamza04&layout=compact&theme=radical)
 
+
+<br>
 
 ##  Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.developer.hamza@gmail.com)
@@ -30,4 +37,4 @@ Crafting real-world solutions with MERN stack, blending logic with design as a S
 
 ---
 
-> *“Code with purpose, design with clarity.”* 💡
+> *"Code with purpose, design with clarity."* 💡
