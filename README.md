@@ -41,7 +41,7 @@
 <br>
 
 ## 📬 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.developer.hamza@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali123606)  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.developer.hamza@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-with-alihamza/)  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-portfolio.vercel.app/)
 
 
 
