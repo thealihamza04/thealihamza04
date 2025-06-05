@@ -6,7 +6,7 @@
 <br>
 
 ##  Currently Learning  
-- **Advanced React & TypeScript** — Type-safe UI development  
+- **Advanced React & JawaScript** — Type-safe UI development  
 - **System Design & Clean Architecture** — Scalable & maintainable systems  
 - **Full-stack Production-ready Apps** — Robust & deployable apps  
 
