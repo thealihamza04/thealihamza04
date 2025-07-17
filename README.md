@@ -27,7 +27,7 @@
 
 
 ##  Tech Stack  
-![Tech Stack](https://skillicons.dev/icons?i=tailwind,mongodb,express,react,postman,typescript,js,cpp,cs)
+![Tech Stack](https://skillicons.dev/icons?i=tailwind,mongodb,express,react,next,postman,typescript,js,cpp,cs)
 
 
 <br>
