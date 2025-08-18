@@ -16,6 +16,7 @@ Crafting real-world solutions with the MERN stack and contributing to open-sourc
 ## Tech Stack
 ![Ali Hamza's technology stack](https://skillicons.dev/icons?i=tailwind,mongodb,express,react,next,postman,typescript,js,cpp,cs)
 
+
 ## Featured Projects
 - **Portfolio Website** — Next.js & Tailwind CSS-based personal site showcasing projects. [Demo](https://alihamza-portfolio.vercel.app/) | [Source](https://github.com/thealihamza04/portfolio)
 - **ChatCraft** — Real-time chat app using MongoDB, Express, React, Node.js, and Socket.io. [Source](https://github.com/thealihamza04/chatcraft)
@@ -32,6 +33,7 @@ Crafting real-world solutions with the MERN stack and contributing to open-sourc
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.developer.hamza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-with-alihamza/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-portfolio.vercel.app/)
+
 
 <img src="https://komarev.com/ghpvc/?username=thealihamza04&color=brightgreen" alt="Ali Hamza's GitHub profile views counter" />
 
