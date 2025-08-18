@@ -18,9 +18,9 @@ Crafting real-world solutions with the MERN stack and contributing to open-sourc
 
 
 ## Featured Projects
-- **Portfolio Website** — Next.js & Tailwind CSS-based personal site showcasing projects. [Demo](https://alihamza-portfolio.vercel.app/) | [Source](https://github.com/thealihamza04/portfolio)
-- **ChatCraft** — Real-time chat app using MongoDB, Express, React, Node.js, and Socket.io. [Source](https://github.com/thealihamza04/chatcraft)
-- **TaskFlow API** — RESTful productivity API built with Express, JWT, and MongoDB. [Source](https://github.com/thealihamza04/taskflow-api)
+- **Big Brains** — Online Courses Selling platform. [Demo](https://bigbrainss.vercel.app/)
+- **Tell me Your Need** — Created for umt students to collaborate and solve problems [Demo](https://tellmeyourneed.vercel.app/)
+- **BidZest** — website created for Pre-construction agency - bidzest  [Demo](https://bidzest.vercel.app/)
 
 ## Education & Experience
 - **B.S. in Software Engineering (6th Semester)** — focusing on scalable web development
