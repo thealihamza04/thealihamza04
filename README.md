@@ -1,5 +1,6 @@
 <!-- Ali Hamza GitHub profile README - MERN stack developer, open source, React, Node.js, JavaScript, software engineering student -->
-<div align="center">
+
+<div>
   <h1>Ali Hamza</h1>
   <h3>MERN Stack Developer & Software Engineering Student</h3>
   <p>Crafting real-world solutions with the MERN stack and contributing to open-source projects. Passionate about React, Node.js, and scalable web applications.</p>
