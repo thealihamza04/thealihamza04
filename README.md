@@ -14,7 +14,7 @@
 - **Production-ready Full-Stack Apps** — robust & deployable software
 
 ## 🎯 Current Goals
-- Achieve **excellent grades** in 6th semester
+- Achieve **excellent grades** in 7th semester
 - Build **personalized AI models**
 - Create **top-notch UX animations**
 
