@@ -51,4 +51,4 @@
   <img src="https://komarev.com/ghpvc/?username=thealihamza04&color=brightgreen" alt="Ali Hamza's GitHub profile views counter" />
 </p>
 
-<blockquote align="right">💡"Code with purpose, design with clarity." </blockquote>
+<blockquote>💡"Code with purpose, design with clarity." </blockquote>
