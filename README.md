@@ -26,7 +26,6 @@
 
 ##  Featured Projects
 - **Big Brains** — Online Courses Selling platform. [Demo](https://bigbrainss.vercel.app/)
-- **Tell me Your Need** — Created for umt students to collaborate and solve problems [Demo](https://tellmeyourneed.vercel.app/)
 - **BidZest** — website created for Pre-construction agency - bidzest  [Demo](https://bidzest.vercel.app/)
 
 ## Education & Experience
