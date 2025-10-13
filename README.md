@@ -32,13 +32,6 @@
 - **B.S. in Software Engineering (6th Semester)** — focusing on scalable web development
 - **Freelance MERN Stack Developer** — delivering full-stack applications for clients
 
-##  Contributions
-<p >
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thealihamza04&theme=icegray&hide_border=true&border_radius=15&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=170&hide_current_streak=true&hide_longest_streak=true" alt="Ali Hamza's GitHub streak stats" />
-  </a>
-</p>
-
 ##  Connect With Me
 <p>
   <a href="mailto:contact.developer.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
