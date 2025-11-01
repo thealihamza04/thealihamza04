@@ -7,9 +7,19 @@
 
 
 ## 🛠️ 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase,supabase,express,react,next,postman,typescript,js,cpp,cs," alt="Ali Hamza's technology stack" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,next,express,nodejs" alt="stack" />
+</div> 
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="stack" />
+</div> 
+  <div>
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,framer" alt="stack" />
+  </div>
+  <div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cpp,cs,python,java" alt="stack" />
+  </div>
+
 
 
 ##  
