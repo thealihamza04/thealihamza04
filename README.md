@@ -8,7 +8,7 @@
 
 ## 🛠️ 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,next,postman,typescript,js,cpp,cs" alt="Ali Hamza's technology stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,next,postman,typescript,js,cpp,cs,firebase,supabase" alt="Ali Hamza's technology stack" />
 </p>
 
 
