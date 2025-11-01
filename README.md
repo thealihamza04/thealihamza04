@@ -8,16 +8,6 @@
 
 ---
 
-## 🧠 Currently Learning
-- **Advanced React & TypeScript** — type-safe UI development
-- **System Design & Clean Architecture** — scalable & maintainable systems
-- **Production-ready Full-Stack Apps** — robust & deployable software
-
-## 🎯 Current Goals
-- Achieve **excellent grades** in 7th semester
-- Build **personalized AI models**
-- Create **top-notch UX animations**
-
 ## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,next,postman,typescript,js,cpp,cs" alt="Ali Hamza's technology stack" />
