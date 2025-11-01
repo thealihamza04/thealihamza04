@@ -6,7 +6,6 @@
   <p>Crafting real-world solutions with the MERN stack and contributing to open-source projects. Passionate about React, Node.js, and scalable web applications.</p>
 </div>
 
----
 
 ## 🛠️ Tech Stack
 <p>
@@ -18,9 +17,6 @@
 - **Big Brains** — Online Courses Selling platform. [Demo](https://bigbrainss.vercel.app/)
 - **BidZest** — website created for Pre-construction agency - bidzest  [Demo](https://bidzest.vercel.app/)
 
-## Education & Experience
-- **B.S. in Software Engineering (6th Semester)** — focusing on scalable web development
-- **Freelance MERN Stack Developer** — delivering full-stack applications for clients
 
 ##  Connect With Me
 <p>
