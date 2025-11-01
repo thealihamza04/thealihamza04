@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind,figma,framer" alt="stack" />
   </div>
   <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cpp,cs,python,java" alt="stack" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cpp,cs,python,java" alt="stack" /> -->
   </div>
 
 
