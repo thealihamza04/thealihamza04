@@ -1,8 +1,18 @@
-I believe technology should simplify lives, empower businesses, and create seamless digital experiences.
-<br/>
-By building robust, scalable web and mobile applications using modern stacks like MERN and React Native, I turn complex ideas into intuitive, high-performance solutions.
-<br/>
-deliver end-to-end products—from responsive web platforms to cross-platform mobile apps—designed to drive engagement, growth, and efficiency.
+# Hi, I'm Hamza 👋  
+**Full-Stack Web & Mobile Developer | MERN & React Native**
+
+
+## 🌟 My Philosophy
+I believe technology should **simplify lives**, **empower businesses**, and create **seamless digital experiences**.
+
+
+## 🛠 How I Work
+I build **robust, scalable web and mobile applications** using modern stacks like **MERN** and **React Native**, turning **complex ideas into intuitive, high-performance solutions**.
+
+
+## 🚀 What I Deliver
+End-to-end products—from **responsive web platforms** to **cross-platform mobile apps**—designed to drive **engagement, growth, and efficiency**.
+
 
 ## 🛠️ 
 <div>
