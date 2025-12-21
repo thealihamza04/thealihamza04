@@ -1,12 +1,7 @@
-<!-- Ali Hamza GitHub profile README - MERN stack developer, open source, React, Node.js, JavaScript, software engineering student -->
-
-<!-- <div> -->
-  <!-- <h1>Ali Hamza (MERN Stack Developer) </h1> -->
-  <!-- <p>Crafting real-world solutions with the MERN stack and contributing to open-source projects. Passionate about React, Node.js, and scalable web applications.</p> -->
-<!-- </div> -->
-
 I believe technology should simplify lives, empower businesses, and create seamless digital experiences.
+<br/>
 By building robust, scalable web and mobile applications using modern stacks like MERN and React Native, I turn complex ideas into intuitive, high-performance solutions.
+<br/>
 deliver end-to-end products—from responsive web platforms to cross-platform mobile apps—designed to drive engagement, growth, and efficiency.
 
 ## 🛠️ 
