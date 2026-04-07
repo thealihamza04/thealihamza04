@@ -1,4 +1,4 @@
-# Hi, I'm Hamza 👋  
+# Hi, I'm Hamza <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 **Full-Stack Web & Mobile Developer | MERN & React Native**
 
 <br/>
@@ -33,3 +33,5 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
 </p>
 
 <blockquote>💡 Code with purpose, design with clarity.</blockquote>
+
+
