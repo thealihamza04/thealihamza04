@@ -25,6 +25,8 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
   <br/>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,wasm,c,cpp,py,java" alt="Tech Stack" />
   <br/>
+  <img src="https://skillicons.dev/icons?i=netlify,githubactions,vercel" alt="Tech Stack" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=jest" alt="Tech Stack" />
 </div>
 
