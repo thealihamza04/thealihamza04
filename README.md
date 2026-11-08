@@ -55,6 +55,9 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
     <td align="center" width="50%"><img src="assets/pie-graph.gif" alt="Pie graph" width="400" /></td>
     <td align="center" width="50%"><img src="assets/chart.gif" alt="Chart" width="400" /></td>
   </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/cursorful-demo.gif" alt="Demo" width="800" /></td>
+  </tr>
 </table>
 
 <br/>
