@@ -42,6 +42,10 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Showcase
+<p align="center">
+  <img src="assets/intro.gif" alt="Intro" width="800" />
+</p>
+
 <table width="100%">
   <tr>
     <td align="center" width="50%"><img src="assets/browser-wireframe.gif" alt="Browser wireframe" width="400" /></td>
