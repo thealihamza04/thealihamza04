@@ -51,6 +51,10 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
     <td align="center" width="50%"><img src="assets/cpu-monitor.gif" alt="CPU cores monitor" width="400" /></td>
     <td align="center" width="50%"><img src="assets/spam-detector.gif" alt="Spam Detector" width="400" /></td>
   </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/pie-graph.gif" alt="Pie graph" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/chart.gif" alt="Chart" width="400" /></td>
+  </tr>
 </table>
 
 <br/>
