@@ -43,27 +43,27 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Showcase
 <p align="center">
-  <img src="assets/intro.gif" alt="Intro" width="800" />
+  <img src="assets/intro.gif" alt="Intro" width="100%" />
 </p>
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%"><img src="assets/browser-wireframe.gif" alt="Browser wireframe" width="400" /></td>
-    <td align="center" width="50%"><img src="assets/rack-store.gif" alt="RACK clothing store" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/browser-wireframe.gif" alt="Browser wireframe" width="100%" /></td>
+    <td align="center" width="50%"><img src="assets/rack-store.gif" alt="RACK clothing store" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src="assets/cpu-monitor.gif" alt="CPU cores monitor" width="400" /></td>
-    <td align="center" width="50%"><img src="assets/spam-detector.gif" alt="Spam Detector" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/cpu-monitor.gif" alt="CPU cores monitor" width="100%" /></td>
+    <td align="center" width="50%"><img src="assets/spam-detector.gif" alt="Spam Detector" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src="assets/pie-graph.gif" alt="Pie graph" width="400" /></td>
-    <td align="center" width="50%"><img src="assets/chart.gif" alt="Chart" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/pie-graph.gif" alt="Pie graph" width="100%" /></td>
+    <td align="center" width="50%"><img src="assets/chart.gif" alt="Chart" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="assets/cursorful-demo.gif" alt="Demo" width="800" /></td>
+    <td align="center" colspan="2"><img src="assets/cursorful-demo.gif" alt="Demo" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="assets/cursorful-demo-2.gif" alt="Demo 2" width="800" /></td>
+    <td align="center" colspan="2"><img src="assets/cursorful-demo-2.gif" alt="Demo 2" width="100%" /></td>
   </tr>
 </table>
 
