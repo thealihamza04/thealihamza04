@@ -46,7 +46,7 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
   <img src="assets/intro.gif" alt="Intro" width="800" />
 </p>
 
-<table width="90%">
+<table width="97%">
   <tr>
     <td align="center" width="50%"><img src="assets/browser-wireframe.gif" alt="Browser wireframe" width="400" /></td>
     <td align="center" width="50%"><img src="assets/rack-store.gif" alt="RACK clothing store" width="400" /></td>
