@@ -58,6 +58,9 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
   <tr>
     <td align="center" colspan="2"><img src="assets/cursorful-demo.gif" alt="Demo" width="800" /></td>
   </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/cursorful-demo-2.gif" alt="Demo 2" width="800" /></td>
+  </tr>
 </table>
 
 <br/>
