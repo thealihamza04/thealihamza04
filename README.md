@@ -39,8 +39,20 @@ End-to-end products—from **responsive web platforms** to **cross-platform mobi
   <a href="https://alihamza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Showcase
+<table width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="assets/browser-wireframe.webp" alt="Browser wireframe" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/rack-store.webp" alt="RACK clothing store" width="400" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/cpu-monitor.webp" alt="CPU cores monitor" width="400" /></td>
+    <td align="center" width="50%"><img src="assets/spam-detector.webp" alt="Spam Detector" width="400" /></td>
+  </tr>
+</table>
+
+<br/>
+
 <blockquote>💡 Code with purpose, design with clarity.</blockquote>
-
-
-
-
