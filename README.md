@@ -51,8 +51,7 @@
     <td align="center" colspan="2"><img src="assets/foldable-device.gif" alt="Foldable device test" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><a href="https://lnkd.in/p/dnFguUHG"><img src="assets/ssl-explainer.gif" alt="SSL explainer" width="50%" /></a></td>
-  </tr>
+  
 </table>
 
 <br/>
