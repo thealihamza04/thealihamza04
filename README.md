@@ -6,24 +6,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="80" /> Tech Stack
-<div>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,express,nodejs,fastapi,mysql,mongodb,firebase,supabase,redis,tailwind,figma,framer" alt="Tech Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,wasm,c,cpp,py,java" alt="Tech Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=netlify,githubactions,vercel" alt="Tech Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=jest" alt="Tech Stack" />
-</div>
 
-<br/>
-
-
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Showcase
 <p align="center">
   <img src="assets/intro.gif" alt="Intro" width="100%" />
 </p>
