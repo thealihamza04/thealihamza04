@@ -51,7 +51,8 @@
     <td align="center" colspan="2"><img src="assets/foldable-device.gif" alt="Foldable device test" width="100%" /></td>
   </tr>
   <tr>
-  
+    <td align="center" colspan="2"><a href="https://github.com/thealihamza04/doddle-city"><img src="assets/doodle-city.gif" alt="Endless 3D doodle city" width="100%" /></a></td>
+  </tr>
 </table>
 
 <br/>
